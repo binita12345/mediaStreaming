@@ -1,0 +1,8 @@
+{
+  "name": "mediaStreaming",
+  "app_id": "4d308eff",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
